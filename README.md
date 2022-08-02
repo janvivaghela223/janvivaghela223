@@ -2,7 +2,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-janvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janvivaghela223/)](https://www.linkedin.com/in/janvivaghela223/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
+
 [![Website Badge](https://img.shields.io/badge/StackOverflow-janvi-yellow)](https://stackoverflow.com/users/19624244/janvi-vaghela-)
 
 I'm
